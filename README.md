@@ -15,7 +15,7 @@ data source: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%
 6. Please upload the tidy data set created in step 5 of the instructions. Please upload your data set as a txt file created with write.table() using row.name=FALSE (do not cut and paste a dataset directly into the text box, as this may cause errors saving your submission).
 ## Steps to work on this course project
 
-1. Download and unzip the data source and put into a folder on your drive. Whe unzipped a `UCI HAR Dataset` folder is created.
+1. Download and unzip the data source and put into a folder on your drive. When unzipped, a `UCI HAR Dataset` folder is created.
 2. Put `run_analysis.R` in the `UCI HAR Dataset` folder, then set the `UCI HAR Dataset` folder as your working directory using `setwd()` function or move the `UCI HAR Dataset` folder to your current working directory.
 3. Run `source code ("run_analysis.R")` from your working directory.
 4.  "run_analysis.R" will generate a new file `tiny_data.txt` in your working directory.
